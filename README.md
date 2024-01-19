@@ -1,1 +1,1 @@
-All the tasks completed during this internship are shared in this repository!
+All the tasks completed during my internship at the Sparks Foundation are shared in this repository!
